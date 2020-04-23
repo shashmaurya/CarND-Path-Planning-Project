@@ -8,7 +8,7 @@ The points addressed below are towards fulfilment of the project requirements as
 
 [image1]: ./writeup_images/Left_Switch.jpg "Successful Run"
 [image2]: ./writeup_images/Right_Switch.jpg "Right Lane Switch"
-[image3]: ./writeup_images/Left_Switch.jpf "Left Lane Switch"
+[image3]: ./writeup_images/Left_Switch.jpg "Left Lane Switch"
 
 
 ## Compilation
@@ -61,6 +61,7 @@ When needed, car is able to change lanes following a smooth trajectory. No jerks
 
 Right Lane Change
 ![alt text][image2]
+
 
 Left Lane Change
 ![alt text][image3]
